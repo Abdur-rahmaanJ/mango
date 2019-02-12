@@ -2,4 +2,7 @@
 # 'wfwfwfgerwg'
 # 'a' +.'b'
 
+x = 3
+print(1)
+
 
